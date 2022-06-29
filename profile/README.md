@@ -6,9 +6,9 @@ Techcrave soutions (OPC) private limited is software development company establi
 
 ## Works on Technology
 
-# iOS (Swift, Objective-c)
-# Android (Java, Kotlin)
-# React Native (Cross platform works for both iOS and Android)
+### iOS (Swift, Objective-c)
+### Android (Java, Kotlin)
+### React Native (Cross platform works for both iOS and Android)
 
 <!--
 
