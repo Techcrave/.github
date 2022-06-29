@@ -12,21 +12,21 @@
 ### For Mobile
 ###
 ###
-iOS (Swift, Objective-c)
-Android (Java, Kotlin)
-React Native (Cross platform works for both iOS and Android)
-Flutter (Cross platform works for both iOS and Android)
+##### iOS (Swift, Objective-c)
+##### Android (Java, Kotlin)
+##### React Native (Cross platform works for both iOS and Android)
+##### Flutter (Cross platform works for both iOS and Android)
 ##
 ###
 ###
 ### For Web and Backend
 ###
 ###
-React JS
-PHP Larawel
-PHP Wordpress
-Node JS
-Graph QL
+##### React JS
+##### PHP Larawel
+##### PHP Wordpress
+##### Node JS
+##### Graph QL
 ###
 ###
 ###
