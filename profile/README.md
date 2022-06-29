@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## About Techcrave Solutions
+
+Techcrave soutions (OPC) private limited is software development company established in 2021.
+
+## Works on Technology
+
+# iOS (Swift, Objective-c)
+# Android (Java, Kotlin)
+# React Native (Cross platform works for both iOS and Android)
+
 <!--
 
 **Here are some ideas to get you started:**
