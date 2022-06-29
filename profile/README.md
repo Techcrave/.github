@@ -2,13 +2,24 @@
 
 ## About Company
 
-#### Techcrave soutions (OPC) private limited is software development company established in 2021.
+#### Techcrave soutions (OPC) private limited is software development company established in 2021 at Gandhinagar, Gujrat.
 
 ## Works on Technology
+
+## For Mobile
 
 #### iOS (Swift, Objective-c)
 #### Android (Java, Kotlin)
 #### React Native (Cross platform works for both iOS and Android)
+#### Flutter (Cross platform works for both iOS and Android)
+
+## For Web and Backend
+
+#### React JS
+#### PHP Larawel
+#### PHP Wordpress
+#### Node JS
+#### Graph QL
 
 <!--
 
